@@ -1,0 +1,2 @@
+Number of narratives with no signal words: 28
+ Number of narratives with one signal word: 53
