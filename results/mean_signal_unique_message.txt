@@ -1,0 +1,1 @@
+Mean: 1.9966666666666666, Standard Deviation: 1.3868389316074965, Max: 6, Min: 0
