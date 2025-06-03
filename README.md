@@ -1,2 +1,2 @@
 # embedding_space
-repo related to the embedding space and interpretability position paper 
+repo related to the embedding space and interpretability report 
