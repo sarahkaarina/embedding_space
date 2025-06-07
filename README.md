@@ -1,7 +1,7 @@
 # embedding_space
 
 This repository cotains the code, figures, and results from the analysis reported in 'Imaging language: examining embedding
-interpretability of readily usable large language models' (Crockford, 2025).
+explainability of readily usable large language models' (Crockford, 2025).
 
 # Environment
 
